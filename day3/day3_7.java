@@ -1,3 +1,4 @@
+package day3;
 import java.util.Scanner;
 
 public class day3_7 {
@@ -5,7 +6,7 @@ public class day3_7 {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("*을 출력할 라인의 수를 입력하세요.>");
+        System.out.print("Lines?");
         
         int star = scanner.nextInt();
 
