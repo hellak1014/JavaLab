@@ -11,7 +11,7 @@ public class day4_18 {
                     continue;
                 System.out.println(i+"*"+j +"="+ i*j);
             }
-            System.out.println();
+            System.out.println(); //break; 의 도착점
         }
     }
 }
