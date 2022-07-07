@@ -30,7 +30,7 @@ public class day5_9 {
          */
             
         for (int i=0; i<counter.length;i++) {
-
+                System.out.println(i +" : " + counter[i]);
         }
 
 
