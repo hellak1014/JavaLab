@@ -7,7 +7,7 @@ public class Tv {
 	boolean power;
 	int channel;
 	
-	void power(){
+	void power(){ //void는 반환 타입. 리턴이 없는 매서드의 수행.
 		power = !power;
 	}
 	void channelUp() {
