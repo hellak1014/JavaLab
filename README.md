@@ -19,3 +19,6 @@ day6 notion -> https://www.notion.so/Day6-28d5d5ea85d9415aaf453897e079bdb8
 
 
 day7 notion -> https://www.notion.so/Day7-1d359150df4645a9a2aa2e6c0bd00eb2
+
+
+day8~ >>>>>>> https://github.com/hellak1014/JavaClass
