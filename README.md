@@ -13,3 +13,6 @@ day4 notion -> https://www.notion.so/Day4-c24287fe6d4745d7a75f1e2217bb87f5
 
 
 day5 notion -> https://www.notion.so/Day5-e6b5f411599d49479b9948d8cb5e6cc8
+
+
+day6 notion -> https://www.notion.so/Day6-28d5d5ea85d9415aaf453897e079bdb8
